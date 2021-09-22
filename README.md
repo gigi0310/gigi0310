@@ -22,4 +22,5 @@ Welcome to my Github profile.
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigi0310&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
 <br />
 
+<img src="https://github.com/gigi0310/gigi0310/blob/output/github-contribution-grid-snake.svg" /></p>
 
